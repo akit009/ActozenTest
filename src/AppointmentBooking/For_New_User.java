@@ -25,9 +25,10 @@ public class For_New_User {
     driver.findElement(By.xpath("//span[text()='Consult']")).click();
     driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
     //driver.findElement(By.xpath("//a[@href='/doctor/100']")).click();
-    	for(int i=0;i<2;i++){
-    		
-    	}
+    	
+    
+    
+    //hhjjhghjhjgj
     	
    
     driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
