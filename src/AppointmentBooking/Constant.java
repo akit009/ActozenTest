@@ -5,5 +5,5 @@ String UserName="khandelwal1707@gmail.com";
 String Password="ankit123";
 String Browser ="Chrome";
 String URL="https://www.actozen.com/";
-String Time="";
+String Time="//a[@href='/consult-now/book-appointment/MTkyNDYzJjE0OjAwJjE1OjAw']";
 }
